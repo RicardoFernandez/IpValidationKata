@@ -1,0 +1,7 @@
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\bin\Debug\IpValidationKata.exe.config
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\bin\Debug\IpValidationKata.exe
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\bin\Debug\IpValidationKata.pdb
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\obj\Debug\IpValidationKata.csprojAssemblyReference.cache
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\obj\Debug\IpValidationKata.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\obj\Debug\IpValidationKata.exe
+C:\Users\Ricardo Fernández\source\repos\IpValidationKata\IpValidationKata\obj\Debug\IpValidationKata.pdb
